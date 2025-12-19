@@ -1,29 +1,23 @@
-# Simple Coding Test
-
 ## Language Used
 Java
 
 ## Description
-This repository contains solutions for a simple coding test with four problems.
-All programs accept user input using the Scanner class.
-The code is written using simple logic, basic variables, and clear structure.
+This repository contains solutions for a coding test consisting of four problems.
+All programs take user input using the `Scanner` class.
+The solutions are written using simple logic, basic variables, and a clear program structure,
+making them easy to understand for beginners.
 
-No external libraries or internet resources were used.
+## Programs Included
 
-## Programs
+### Program-1.java
+- Performs basic arithmetic operations using a class.
 
-1. Program1_Calculator.java
-   - Performs basic arithmetic operations using a class.
+### Program-2.java
+- Prints odd numbers based on the given user input.
 
-2. Program2_OddSeries.java
-   - Prints odd numbers based on user input.
+### Program-3.java
+- Prints odd numbers depending on whether the input value is even or odd.
 
-3. Program3_ConditionalOddSeries.java
-   - Prints odd numbers depending on whether the input is even or odd.
-
-4. Program4_MultipleCount.java
-   - Counts multiples of numbers from 1 to 9 from user input list.
-
-## How to Run
-Compile:
-javac ProgramName.java
+### Program-4.java
+- Counts how many numbers in the user input array are multiples of numbers from 1 to 9.
+- The user first enters the number of elements in the array.
